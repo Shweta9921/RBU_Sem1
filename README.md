@@ -1,3 +1,3 @@
 # RBU_Sem1
-AllSubject
+All Subject
 it Conntain all subject practical file
